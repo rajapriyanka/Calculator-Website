@@ -66,6 +66,3 @@ cd Calculator-Website
 🌍 **Live Project:** [Calculator Website](https://calculator-hazel-iota.vercel.app/)  
 
 ---
-
-Now, **copy and paste** this into your `README.md` file, and your **GitHub repository** will look more professional! 🚀 Let me know if you need any modifications. 😊  
-```
